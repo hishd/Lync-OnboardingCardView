@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		FD5262812D5DB11500D12C9B /* OnboardingCardView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnboardingCardView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD5262812D5DB11500D12C9B /* OnboardingCardView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = OnboardingCardView.app; path = "/Users/hishd/Desktop/Development/Swift/SwiftUI/OnboardingCardView/build/Debug-iphoneos/OnboardingCardView.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				FD5262832D5DB11500D12C9B /* OnboardingCardView */,
-				FD5262822D5DB11500D12C9B /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		FD5262822D5DB11500D12C9B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				FD5262812D5DB11500D12C9B /* OnboardingCardView.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = FD5262782D5DB11500D12C9B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FD5262822D5DB11500D12C9B /* Products */;
+			productRefGroup = FD5262782D5DB11500D12C9B;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -251,7 +242,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"OnboardingCardView/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"OnboardingCardView/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = 9CYSVYA95H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -280,7 +271,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"OnboardingCardView/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"OnboardingCardView/Resources/Preview Content\"";
 				DEVELOPMENT_TEAM = 9CYSVYA95H;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
