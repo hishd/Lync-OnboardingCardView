@@ -15,6 +15,11 @@ An infinite horizontal card scrolling view component developed for an open-sourc
 
 This implementation is based on [Kavsoft's Infinite ScrollView](https://www.youtube.com/watch?v=VHaPYUWFTF8&t=2s) 
 
+### Features
+- Automatic scrolling
+- Visual effects on appear
+- Ambient background changes based on card style
+
 ## Installation
 
  - Clone the OnboardingCardView repository (or use the required components).
